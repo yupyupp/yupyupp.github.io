@@ -1,0 +1,198 @@
+{
+  "duration": 20.622082,
+  "height": 26,
+  "title": null,
+  "width": 116,
+  "env": {
+    "SHELL": "/usr/bin/zsh",
+    "TERM": "screen-256color"
+  },
+  "stdout": [
+    [
+      0.120816,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                     \r \r"
+    ],
+    [
+      0.002947,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34myupyupp\u001b[31m@\u001b[32mtempi\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/asciinema \u001b[49m\u001b[34m\u001b[39m\r\n  \u001b[K\u001b[103C\u001b[34m[\u001b[32m14:56:11\u001b[34m]\u001b[39m\u001b[113D\u001b[?1h\u001b="
+    ],
+    [
+      0.001212,
+      "\r\r\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34myupyupp\u001b[31m@\u001b[32mtempi\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/asciinema \u001b[49m\u001b[34m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[K\u001b[102C\u001b[34m[\u001b[32m14:56:11\u001b[34m]\u001b[39m\u001b[112D\u001b[?2004h"
+    ],
+    [
+      1.661793,
+      "\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.136114,
+      "\b\u001b[4mh\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.096006,
+      "\b\b\u001b[4mh\u001b[4mt\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.096999,
+      "\b\b\b\u001b[24m\u001b[32mh\u001b[24m\u001b[32mt\u001b[24m\u001b[32mo\u001b[32mp\u001b[39m"
+    ],
+    [
+      1.181109,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34myupyupp\u001b[31m@\u001b[32mtempi\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/asciinema \u001b[49m\u001b[34m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[32mhtop\u001b[39m\u001b[K\u001b[98C\u001b[34m[\u001b[32m14:56:14\u001b[34m]\u001b[39m\u001b[108D\r\r\n\u001b(B\u001b)0\u001b[?1049h\u001b[1;26r\u001b[m\u000f\u001b[4l\u001b[?1h\u001b=\u001b[?25l\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.080981,
+      "\u001b[39;49m\u001b[m\u000f\u001b[H\u001b[J\u001b[1B  \u001b[36mCPU\u001b[39m\u001b[0;1m\u000f[\u001b[30m                                        0.0%\u001b[39m]\u001b[m\u000f   \u001b[36mTasks: \u001b[0;1m\u000f\u001b[36m44\u001b[0m\u000f\u001b[36m, \u001b[0;1m\u000f\u001b[32m11\u001b[0m\u000f\u001b[32m thr\u001b[36m; \u001b[0;1m\u000f\u001b[32m1\u001b[0m\u000f\u001b[36m running\u001b[3;3HMem\u001b[39m\u001b[0;1m\u000f[\u001b[0m\u000f\u001b[32m||||||||||||||||||\u001b[33m||||||||||||||||\u001b[0;1m\u000f\u001b[30m     275M/768M\u001b[39m]\u001b[m\u000f   \u001b[36mLoad average: \u001b[39m\u001b[0;1m\u000f0.01 \u001b[36m0.02 \u001b[0m\u000f\u001b[36m0.00 \u001b[4;3HSwp\u001b[39m\u001b[0;1m\u000f[\u001b[0m\u000f\u001b[31m||||||||\u001b[0;1m\u000f\u001b[30m                               123M/768M\u001b[39m]\u001b[m\u000f   \u001b[36mUptime: \u001b[0;1m\u000f\u001b[36m29 days, 22:46:06\r\u001b[2B\u001b[0m\u000f\u001b[30m\u001b[42m  PID \u001b[30m\u001b[46mUSER      \u001b[30m\u001b[42mPRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  Command                                              \u001b[7;1H\u001b[30m\u001b[46m29462 Debian-ex  200 56136   496   444 S  0.0  0.1  0:00.03 /usr/sbin/exim4 -bd -q30m                            \u001b[8;2H\u001b[39;49m\u001b[m\u000f6145 \u001b[0;1m\u000f\u001b[30mbitlbee   \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 151M \u001b[39m\u001b[m\u000f  608   604 S  0.0  0.1  0:00.00 /usr/sbin/bitlbee -p 6667 -P /var/run/bitlbee.pid -F\r\u001b[1B20747\u001b[0;1m\u000f\u001b[30mcallback  \u001b[3"
+    ],
+    [
+      3.4e-05,
+      "9m\u001b[m\u000f 20   0 \u001b[36m11\u001b[39m\u001b[m\u000f124   976   852 S  0.0  0.1  0:00.35 /bin/bash /usr/local/bin/tunnel_shell -c /usr/sbin/no\u001b[10;1H25805 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 5\u001b[39m\u001b[m\u000f784   628   540 S  0.0  0.1  0:00.00 sleep 1000\u001b[11;3H146 \u001b[0;1m\u000f\u001b[30mmessagebu \u001b[39m\u001b[m\u000f 20   0 \u001b[36m45\u001b[39m\u001b[m\u000f192 \u001b[36m 1\u001b[39m\u001b[m\u000f312   988 S  0.0  0.2  0:00.60 /usr/bin/dbus-daemon --system --address=systemd: --no\u001b[12;5H1 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 203M  2\u001b[39m\u001b[m\u000f532 \u001b[36m 1\u001b[39m\u001b[m\u000f704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deserialize 17\u001b[13;4H59 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m68\u001b[39m\u001b[m\u000f148 \u001b[36m 7\u001b[39m\u001b[m\u000f348 \u001b[36m 7\u001b[39m\u001b[m\u000f156 S  0.0  0.9  0:10.41 /lib/systemd/systemd-journald\u001b[14;3H147 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m37\u001b[39m\u001b[m\u000f904 \u001b[36m 1\u001b[39m\u001b[m\u000f160 \u001b[36m 1\u001b[39m\u001b[m\u000f048 S  0.0  0.1  0:01.10 /lib/systemd/systemd-logind\u001b[15;3H148 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m29\u001b[39m\u001b[m\u000f580   932   784 S  0.0  0.1  0:01.72 /usr/sbin/cron -f\u001b[16;3H195 \u001b[0;1m\u000f\u001b[3"
+    ],
+    [
+      2e-05,
+      "0mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.20:00.92 \u001b[32m/usr/sbin/rsyslogd -n\u001b[17;3H\u001b[39m\u001b[m\u000f196 \u001b[0;1m\u000f\u001b[30mroot\u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:00.00 \u001b[32m/usr/sbin/rsyslogd -n\u001b[18;3H\u001b[39m\u001b[m\u000f201 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:01.14 \u001b[32m/usr/sbin/rsyslogd -n\u001b[19;3H\u001b[39m\u001b[m\u000f149 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:02.12 /usr/sbin/rsyslogd -n\u001b[20;3H307 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m12\u001b[39m\u001b[m\u000f612   596   592 S  0.0 0.1  0:00.00 /sbin/agetty --noclear tty2 linux\u001b[21;3H308 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m14\u001b[39m\u001b[m\u000f256   616   612 S  0.0  0.1  0:00.00 /sbin/agetty --noclear --keep-baud console 115200,384\u001b[22;1H23330 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m42\u001b[39m\u001b[m\u000f976   792   744 S  0.0  0.1  0:00.56 /lib/systemd/systemd-udevd\r\u001b[1B29806 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m69\u001b[39m\u001b[m\u000f888 \u001b[36m 1\u001b[39m\u001b["
+    ],
+    [
+      1.9e-05,
+      "m\u000f176 \u001b[36m 1\u001b[39m\u001b[m\u000f040 S  0.0  0.1  0:00.33 /usr/sbin/sshd -D\r\u001b[1B31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m93\u001b[39m\u001b[m\u000f600   912   700 S  0.0  0.1  0:02.70 gpg-agent --homedir /root/.gnupg --use-standard-socke\u001b[25;1H25405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:17.00 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[26;1H\u001b[39m\u001b[m\u000fF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b[m\u000fF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b[m\u000fF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b[m\u000fF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b[m\u000fF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b[m\u000fF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b[m\u000fF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b[m\u000fF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b[m\u000fF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b[m\u000fF10\u001b[30m\u001b[46mQuit                                 \b \b\u001b[1@ \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.503851,
+      "\u001b[2;7H\u001b[31m|\u001b[2;53H\u001b[0;1m\u000f\u001b[30m7\u001b[4;83H\u001b[36m7\u001b[H\u001b[39m\u001b[m\u000f"
+    ],
+    [
+      1.040984,
+      "\u001b[2;7H\u001b[32m|\u001b[2;51H\u001b[0;1m\u000f\u001b[30m1.0\u001b[4;83H\u001b[36m9\r\u001b[2B\u001b[0m\u000f\u001b[30m\u001b[42mSort by       \u001b[39;49m\u001b[m\u000f \u001b[30m\u001b[42m  PID \u001b[30m\u001b[46mUSER      \u001b[30m\u001b[42mPRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  Command\r\u001b[1B\u001b[39;49m\u001b[m\u000fPID            \u001b[30m\u001b[47m29462 Debian-ex  20   0 56136   496   444 S  0.0  0.1  0:00.03 /usr/sbin/exim4-bd -q30m             \u001b[8;1H\u001b[30m\u001b[46mUSER          \u001b[39;49m\u001b[m\u000f  6145 \u001b[0;1m\u000f\u001b[30mbitlbee   \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 151M \u001b[39m\u001b[m\u000f  608   604 S  0.0  0.1  0:00.00 /usr/sbin/bitlbee -p 6667 -P /var/run/\u001b[9;1HPRIORITY       20747 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m11\u001b[39m\u001b[m\u000f124   976   852 S  0.0  0.1  0:00.35 /bin/bash /usr/local/bin/tunnel_shell \u001b[10;1HNICE           25805 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 5\u001b[39m\u001b[m\u000f784   628   540 S  0.0  0.1  0:00.00 sleep 1000\r\u001b[1BM_SIZE          146 \u001b[0;1m\u000f\u001b[30mmessagebu \u001b[39m\u001b[m\u000f 20   0 \u001b[36m45\u001b[39m\u001b[m\u000f192 \u001b[36m 1\u001b[39m\u001b[m\u000f312   988 S  0.0  0.2  0:00.60 /usr/bin/dbus-daemon --system --addres\u001b[12;1HM_RESIDENT         1 \u001b[0;1m\u000f\u001b[30mroot      \u001b"
+    ],
+    [
+      2.1e-05,
+      "[39m\u001b[m\u000f 20   0 \u001b[36m 203M  2\u001b[39m\u001b[m\u000f532 \u001b[36m 1\u001b[39m\u001b[m\u000f704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deseri\u001b[13;1HM_SHARE           59 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m68\u001b[39m\u001b[m\u000f148 \u001b[36m 7\u001b[39m\u001b[m\u000f348 \u001b[36m 7\u001b[39m\u001b[m\u000f156 S  0.0  0.9  0:10.41 /lib/systemd/systemd-journald\r\u001b[1BSTATE            147 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m37\u001b[39m\u001b[m\u000f904 \u001b[36m 1\u001b[39m\u001b[m\u000f160 \u001b[36m 1\u001b[39m\u001b[m\u000f048 S  0.0  0.1  0:01.10 /lib/systemd/systemd-logind\r\u001b[1BPERCENT_CPU      148 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m29\u001b[39m\u001b[m\u000f580   932   784 S  0.0  0.1  0:01.72 /usr/sbin/cron -f\r\u001b[1BPERCENT_MEM      195 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:00.92 \u001b[32m/usr/sbin/rsyslogd -n\r\u001b[1B\u001b[39m\u001b[m\u000fTIME       196 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:00.00 \u001b[32m/usr/sbin/rsyslogd -n\r\u001b[1B\u001b[39m\u001b[m\u000fCommand    201 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:"
+    ],
+    [
+      1.4e-05,
+      "01.14 \u001b[32m/usr/sbin/rsyslogd -n\u001b[19;17H\u001b[39m\u001b[m\u000f\u001b[1K 149 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:02.12 /usr/sbin/rsyslogd -n\u001b[20;17H\u001b[1K 307 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m12\u001b[39m\u001b[m\u000f612   596   592 S  0.0  0.1  0:00.00 /sbin/agetty --noclear tty2 linux\u001b[21;17H\u001b[1K 308 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m14\u001b[39m\u001b[m\u000f256   616   612 S  0.0  0.1  0:00.00 /sbin/agetty --noclear --keep-baud con\u001b[22;15H\u001b[1K 23330\u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m42\u001b[39m\u001b[m\u000f976   792 744 S  0.0  0.1  0:00.56 /lib/systemd/systemd-udevd\u001b[23;15H\u001b[1K 29806 \u001b[0;1m\u000f\u001b[30mroot  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m69\u001b[39m\u001b[m\u000f888 \u001b[36m 1\u001b[39m\u001b[m\u000f176 \u001b[36m 1\u001b[39m\u001b[m\u000f040 S  0.0  0.1  0:00.33 /usr/sbin/sshd -D\u001b[24;15H\u001b[1K 31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m93\u001b[39m\u001b[m\u000f600   912   700 S  0.0  0.1  0:02.70 gpg-agent --homedir /root/.gnupg --us\u001b[25;15H\u001b[1K 25405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0."
+    ],
+    [
+      1.5e-05,
+      "0  3.5  0:17.00 \u001b[32m/usr/bin/syncthing -no-browser -no-res\u001b[26;1H\u001b[39m\u001b[m\u000fEnter\u001b[30m\u001b[46mSort   \u001b[39;49m\u001b[m\u000fEsc\u001b[30m\u001b[46mCancel                     \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.025729,
+      "\u001b[4;82H\u001b[0;1m\u000f\u001b[36m10\r\u001b[4B\u001b[39m\u001b[m\u000fUSER          \r\u001b[1B\u001b[30m\u001b[46mPRIORITY      \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.152203,
+      "\u001b[8BPRIORITY      \r\u001b[1B\u001b[30m\u001b[46mNICE          \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.177258,
+      "\u001b[9BNICE          \r\u001b[1B\u001b[30m\u001b[46mM_SIZE        \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.167534,
+      "\u001b[2;7H\u001b[0;1m\u000f\u001b[30m \u001b[2;51H0\r\u001b[9B\u001b[39m\u001b[m\u000fM_SIZE        \r\u001b[1B\u001b[30m\u001b[46mM_RESIDENT    \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.156201,
+      "\u001b[11BM_RESIDENT    \r\u001b[1B\u001b[30m\u001b[46mM_SHARE       \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.161787,
+      "\u001b[12BM_SHARE       \r\u001b[1B\u001b[30m\u001b[46mSTATE         \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.159997,
+      "\u001b[4;83H\u001b[0;1m\u000f\u001b[36m1\r\u001b[10B\u001b[39m\u001b[m\u000fSTATE         \r\u001b[1B\u001b[30m\u001b[46mPERCENT_CPU   \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.44921,
+      "\u001b[2;7H\u001b[31m|\u001b[2;51H\u001b[0;1m\u000f\u001b[30m1.1\r\u001b[4B\u001b[0m\u000f\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command          \r\u001b[1B\u001b[30m\u001b[46m29462 Debian-ex  20   0 56136   496   444 S  0.0  0.1  0:00.03 /usr/sbin/exim4 -bd -q30m                            \u001b[8;1H\u001b[39;49m\u001b[m\u000f 6145 \u001b[0;1m\u000f\u001b[30mbitlbee   \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 151M \u001b[39m\u001b[m\u000f  608   604 S  0.0  0.1  0:00.00 /usr/sbin/bitlbee -p 6667 -P /var/run/bitlbee.pid -F \u001b[9;1H20747 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m11\u001b[39m\u001b[m\u000f124   976   852 S  0.0  0.1  0:00.35 /bin/bash /usr/local/bin/tunnel_shell -c /usr/sbin/no\u001b[10;1H\u001b[15P\u001b[1B  146 \u001b[0;1m\u000f\u001b[30mmessagebu \u001b[39m\u001b[m\u000f 20   0 \u001b[36m45\u001b[39m\u001b[m\u000f192 \u001b[36m 1\u001b[39m\u001b[m\u000f312   988 S  0.0  0.2 0:00.60 /usr/bin/dbus-daemon --system --address=systemd: --no\u001b[12;1H    1 \u001b[0;1m\u000f\u001b[30mroot \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 203M  2\u001b[39m\u001b[m\u000f532 \u001b[36m 1\u001b[39m\u001b[m\u000f704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deserialize 17\u001b[K\r\u001b[1B\u001b[15P\u001b[1B\u001b[15P\u001b[1B\u001b[15P\u001b[1B\u001b[15P\u001b[1B\u001b[15P\u001b[1B\u001b[15P\u001b[1B"
+    ],
+    [
+      3e-05,
+      "\u001b[15P\u001b[1B\u001b[15P\u001b[1B  308 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20  0 \u001b[36m14\u001b[39m\u001b[m\u000f256   616   612 S  0.0  0.1  0:00.00 /sbin/agetty --noclear --keep-baud console 115200,384\u001b[22;1H\u001b[15P\u001b[1B\u001b[15P\u001b[1B31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m93\u001b[39m\u001b[m\u000f600   912   700 S  0.0  0.1  0:02.70 gpg-agent --homedir/root/.gnupg --use-standard-sock\r\u001b[1B25405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 200 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:17.00 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[26;1H\u001b[39m\u001b[m\u000fF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b[m\u000fF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b[m\u000fF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b[m\u000fF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b[m\u000fF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b[m\u000fF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b[m\u000fF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b[m\u000fF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b[m\u000fF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b[m\u000fF10\u001b[30m\u001b[46mQuit\u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.502041,
+      "\u001b[2;7H\u001b[32m|\u001b[2;51H\u001b[0;1m\u000f\u001b[30m0.7\u001b[4;83H\u001b[36m2\u001b[H\u001b[39m\u001b[m\u000f"
+    ],
+    [
+      0.372784,
+      "\u001b[2;7H\u001b[0;1m\u000f\u001b[30m \u001b[2;53H0\u001b[4;83H\u001b[36m3\r\u001b[2B\u001b[0m\u000f\u001b[30m\u001b[42mSort by       \u001b[39;49m\u001b[m\u000f \u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHRS \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\r\u001b[1B\u001b[39;49m\u001b[m\u000fPID     \u001b[30m\u001b[47m29462 Debian-ex  20   0 56136   496   444 S  0.0  0.1  0:00.03 /usr/sbin/exim4 -bd -q30m          \u001b[8;1H\u001b[39;49m\u001b[m\u000fUSER            6145 \u001b[0;1m\u000f\u001b[30mbitlbee   \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 151M \u001b[39m\u001b[m\u000f  608   604 S  0.0  0.1  0:00.00 /usr/sbin/bitlbee -p6667 -P /var/run/\u001b[9;1HPRIORITY       20747 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 200 \u001b[36m11\u001b[39m\u001b[m\u000f124   976   852 S  0.0  0.1  0:00.35 /bin/bash /usr/local/bin/tunnel_shell \u001b[10;1HNICE           25805 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 5\u001b[39m\u001b[m\u000f784   628   540 S  0.0  0.1  0:00.00 sleep 1000\r\u001b[1BM_SIZE           146 \u001b[0;1m\u000f\u001b[30mmessagebu \u001b[39m\u001b[m\u000f 20   0 \u001b[36m45\u001b[39m\u001b[m\u000f192 \u001b[36m 1\u001b[39m\u001b[m\u000f312   988 S  0.0  0.2  0:00.60 /usr/bin/dbus-daemon --system --addres\u001b[12;1HM_RESIDENT         1 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b"
+    ],
+    [
+      2.1e-05,
+      "[36m 203M  2\u001b[39m\u001b[m\u000f532 \u001b[36m 1\u001b[39m\u001b[m\u000f704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deseri\u001b[13;1HM_SHARE           59 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m68\u001b[39m\u001b[m\u000f148 \u001b[36m 7\u001b[39m\u001b[m\u000f348 \u001b[36m 7\u001b[39m\u001b[m\u000f156 S  0.0  0.9  0:10.41 /lib/systemd/systemd-journald\r\u001b[1BSTATE            147 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m37\u001b[39m\u001b[m\u000f904 \u001b[36m 1\u001b[39m\u001b[m\u000f160 \u001b[36m 1\u001b[39m\u001b[m\u000f048 S  0.0  0.1  0:01.10 /lib/systemd/systemd-logind\r\u001b[1B\u001b[30m\u001b[46mPERCENT_CPU   \u001b[39;49m\u001b[m\u000f   148 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m29\u001b[39m\u001b[m\u000f580   932   784 S  0.0  0.1  0:01.72 /usr/sbin/cron -f\r\u001b[1BPERCENT_MEM      195 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:00.92 \u001b[32m/usr/sbin/rsyslogd -n\r\u001b[1B\u001b[39m\u001b[m\u000fTIME             196 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:00.00 \u001b[32m/usr/sbin/rsyslogd -n\r\u001b[1B\u001b[39m\u001b[m\u000fCommand          201 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0."
+    ],
+    [
+      1.3e-05,
+      "2  0:01.14 \u001b[32m/usr/sbin/rsyslogd -n\u001b[19;17H\u001b[39m\u001b[m\u000f\u001b[1K 149 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 246M  1\u001b[39m\u001b[m\u000f260   928 S  0.0  0.2  0:02.12 /usr/sbin/rsyslogd -n\u001b[20;17H\u001b[1K 307 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m12\u001b[39m\u001b[m\u000f612   596   592 S  0.0  0.1  0:00.00 /sbin/agetty --noclear tty2 linux\u001b[21;17H\u001b[1K 308 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m14\u001b[39m\u001b[m\u000f256   616   612 S  0.0  0.1  0:00.00 /sbin/agetty --noclear --keep-baud con\u001b[22;15H\u001b[1K 23330 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m42\u001b[39m\u001b[m\u000f976792   744 S  0.0  0.1  0:00.56 /lib/systemd/systemd-udevd\u001b[23;15H\u001b[1K 29806 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m69\u001b[39m\u001b[m\u000f888 \u001b[36m 1\u001b[39m\u001b[m\u000f176 \u001b[36m 1\u001b[39m\u001b[m\u000f040 S  0.0  0.1  0:00.33 /usr/sbin/sshd -D\u001b[24;15H\u001b[1K 31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m93\u001b[39m\u001b[m\u000f600   912   700 S  0.0  0.1  0:02.70 gpg-agent --homedir /root/.gnupg --us\u001b[25;15H\u001b[1K 25405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 "
+    ],
+    [
+      1.1e-05,
+      "S  0.0  3.5  0:17.00 \u001b[32m/usr/bin/syncthing -no-browser -no-res\u001b[26;1H\u001b[39m\u001b[m\u000fEnter\u001b[30m\u001b[46mSort   \u001b[39;49m\u001b[m\u000fEsc\u001b[30m\u001b[46mCancel                          \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.228899,
+      "\u001b[4;83H\u001b[0;1m\u000f\u001b[36m4\r\u001b[11B\u001b[39m\u001b[m\u000fPERCENT_CPU   \r\u001b[1B\u001b[30m\u001b[46mPERCENT_MEM   \u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.272049,
+      "\u001b[5B\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S CPU% \u001b[30m\u001b[46mMEM% \u001b[30m\u001b[42m  TIME+  Command               \r\u001b[1B\u001b[30m\u001b[46m 4883 yupyupp    20   0  667M  112M  4064 S  0.0 14.6  0:00.00 finch                                                \u001b[8;1H\u001b[39;49m\u001b[m\u000f 6698 yupyupp    20   0 \u001b[36m 667M  112M  4\u001b[39m\u001b[m\u000f064 S  0.0 14.6  5:43.00 finch\u001b[K\r\u001b[1B 1748 yupyupp    20   0 \u001b[36m 172M 31\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f244 S0.0  4.0  0:10.13 mutt\u001b[K\r\u001b[1B25405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0\u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:17.00 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[11;1H\u001b[39m\u001b[m\u000f25406 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  1:02.01 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[12;1H\u001b[39m\u001b[m\u000f25407 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  1:00.17 \u001b[32m/usr/bin/syncthing -no-browser-"
+    ],
+    [
+      3e-05,
+      "no-restart -logflags=\u001b[13;1H\u001b[39m\u001b[m\u000f25408 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:00.09 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[14;1H\u001b[39m\u001b[m\u000f25409 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:00.00 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[15;1H\u001b[39m\u001b[m\u000f25410 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  0:59.75 \u001b[32m/usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[16;1H\u001b[39m\u001b[m\u000f25393 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[39m\u001b[m\u000f 20   0 \u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432 S  0.0  3.5  3:19.05 /usr/bin/syncthing -no-browser -no-restart -logflags=\u001b[17;1H26027 yupyupp    20   0 \u001b[36m74\u001b[39m\u001b[m\u000f440 \u001b[36m19\u001b[39m\u001b[m\u000f340 \u001b[36m 4\u001b[39m\u001b[m\u000f860 S  0.0  2.5  0:00.30 /usr/bin/python3 /usr/bin/asciinema rec htop.json\r\u001b[1B 3135 yupyupp\u001b[6C   0 \u001b[36m40\u001b[39m\u001b[m\u000f756 "
+    ],
+    [
+      1.8e-05,
+      "\u001b[36m14\u001b[39m\u001b[m\u000f540 \u001b[36m 1\u001b[39m\u001b[m\u000f240 S  0.0  1.8  8:16.26 tmux -u\u001b[K\r\u001b[1B 5705 yupyupp    20   0 \u001b[36m 154M 11\u001b[39m\u001b[m\u000f992 \u001b[36m 3\u001b[39m\u001b[m\u000f408 S  0.0  1.5  0:00.13 \u001b[32mirssi\u001b[39m\u001b[m\u000f\u001b[K\r\u001b[1B 5703 yupyupp    20   0 \u001b[36m 154M 11\u001b[39m\u001b[m\u000f992 \u001b[36m 3\u001b[39m\u001b[m\u000f408 S  0.0  1.5  5:17.22 irssi\u001b[K\u001b[21;4H59 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m68\u001b[39m\u001b[m\u000f148 \u001b[36m 7\u001b[39m\u001b[m\u000f348 \u001b[36m 7\u001b[39m\u001b[m\u000f156 S  0.0  0.9  0:10.41 /lib/systemd/systemd-journald\u001b[K\r\u001b[1B24143 yupyupp    20   0 \u001b[36m52\u001b[39m\u001b[m\u000f624 \u001b[36m 4\u001b[39m\u001b[m\u000f748 \u001b[36m 1\u001b[39m\u001b[m\u000f536 S  0.0  0.6  0:13.15 mosh-server new -c 256-s -l LANG=en_US.UTF-8\r\u001b[1B10778 yupyupp    20   0 \u001b[36m45\u001b[39m\u001b[m\u000f532 \u001b[36m 4\u001b[39m\u001b[m\u000f660 \u001b[36m 2\u001b[39m\u001b[m\u000f356 S  0.0  0.6  0:00.24 -zsh\u001b[K\r\u001b[1B 5557 yupyupp    20   0 \u001b[36m45\u001b[39m\u001b[m\u000f500 \u001b[36m 4\u001b[39m\u001b[m\u000f624 \u001b[36m 2\u001b[39m\u001b[m\u000f332 S  0.0  0.6  0:00.29 -zsh\u001b[K\r\u001b[1B22697 yupyupp    20   0 \u001b[36m53\u001b[39m\u001b[m\u000f372 \u001b[36m 4\u001b[39m\u001b[m\u000f620 \u001b[36m 1\u001b[39m\u001b[m\u000f136 S  0.0  0.6  2:09.03 mosh-server new -c 256 -s -l LANG=en_US.UTF-8\u001b[K\r\u001b[1BF1\u001b[30m\u001b[46mHelp "
+    ],
+    [
+      1.4e-05,
+      " \u001b[39;49m\u001b[m\u000fF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b[m\u000fF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b[m\u000fF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b[m\u000fF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b[m\u000fF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b[m\u000fF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b[m\u000fF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b[m\u000fF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b[m\u000fF10\u001b[30m\u001b[46mQuit\u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.503903,
+      "\u001b[2;7H\u001b[32m|\u001b[2;53H\u001b[0;1m\u000f\u001b[30m7\u001b[4;83H\u001b[36m6\u001b[17;35H\u001b[39m\u001b[m\u000f4\u001b[22;48H7\u001b[22;62H6\u001b[H"
+    ],
+    [
+      0.641238,
+      "\u001b[2;7H\u001b[31m|\u001b[2;51H\u001b[0;1m\u000f\u001b[30m1.5\u001b[4;83H\u001b[36m7\u001b[6;50H\u001b[0m\u000f\u001b[30m\u001b[42mMEM% \u001b[7;2H\u001b[30m\u001b[46m   1 root   \u001b[7;26H203M  2532  170\u001b[7;50H 0.3  0:07.06 /lib/systemd/systemd --system --deserialize 17\r\u001b[1B\u001b[39;49m\u001b[m\u000f31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[8;25H\u001b[0m\u000f\u001b[36m93\u001b[39m\u001b[m\u000f600   912   700\u001b[8;50H 0.1 0:02.70 \u001b[36m├─ \u001b[39m\u001b[m\u000fgpg-agent --homedir /root/.gnupg --use-standard-so\u001b[9;1H29806 \u001b[0;1m\u000f\u001b[30mroot      \u001b[9;25H\u001b[0m\u000f\u001b[36m69\u001b[39m\u001b[m\u000f888 \u001b[36m 1\u001b[39m\u001b[m\u000f176 \u001b[36m 1\u001b[39m\u001b[m\u000f040\u001b[9;51H0.1  0:00.33 \u001b[36m├─ \u001b[39m\u001b[m\u000f/usr/sbin/sshd -D\r\u001b[1B29462 \u001b[0;1m\u000f\u001b[30mDebian-ex\u001b[10;25H\u001b[0m\u000f\u001b[36m56\u001b[39m\u001b[m\u000f136   496   444\u001b[10;51H0.1  0:00.03 \u001b[36m├─ \u001b[39m\u001b[m\u000f/usr/sbin/exim4 -bd -q30m\u001b[K\u001b[11;3H393\u001b[11;56H3:19.05 \u001b[36m├─ \u001b[39m\u001b[m\u000f/usr/bin/syncthing -no-browser -no-restart -logfla\u001b[12;4H10\u001b[12;56H0:59.75 \u001b[36m│  ├─ \u001b[32m/usr/bin/syncthing -no-browser -no-restart -log\u001b[13;5H\u001b[39m\u001b[m\u000f9\u001b[13;62H0 \u001b[36m│  ├─ \u001b[32m/usr/bin/syncthing -no-browser -no-restart -log\u001b[14;5H\u001b[39m\u001b[m\u000f8\u001b[14;62H9 \u001b[36m│  ├─ \u001b[32m/usr/bin"
+    ],
+    [
+      4.6e-05,
+      "/syncthing -no-browser -no-restart -log\u001b[15;4H\u001b[39m\u001b[m\u000f07\u001b[15;56H1:00.17 \u001b[36m│  ├─ \u001b[32m/usr/bin/syncthing -no-browser -no-restart -log\u001b[16;3H\u001b[39m\u001b[m\u000f406\u001b[16;56H1:02.01 \u001b[36m│  ├─ \u001b[32m/usr/bin/syncthing -no-browser -no-restart -log\u001b[17;2H\u001b[39m\u001b[m\u000f5405 \u001b[0;1m\u000f\u001b[30msyncthing \u001b[17;25H\u001b[0m\u000f\u001b[36m41\u001b[39m\u001b[m\u000f984 \u001b[36m27\u001b[39m\u001b[m\u000f468 \u001b[36m 5\u001b[39m\u001b[m\u000f432\u001b[17;51H3\u001b[6C17.00 \u001b[36m│  └─ \u001b[32m/usr/bin/syncthing -no-browser -no-restart -log\u001b[18;1H\u001b[39m\u001b[m\u000f24143\u001b[18;25H\u001b[36m52\u001b[39m\u001b[m\u000f624 \u001b[36m 4\u001b[39m\u001b[m\u000f748 \u001b[36m 1\u001b[39m\u001b[m\u000f536\u001b[18;51H0.6  0:13.16 \u001b[36m├─ \u001b[39m\u001b[m\u000fmosh-server new -c 256 -s -l LANG=en_US.UTF-8\r\u001b[1B24144\u001b[19;25H\u001b[36m40\u001b[39m\u001b[m\u000f764 \u001b[36m 3\u001b[39m\u001b[m\u000f924 \u001b[36m 2\u001b[39m\u001b[m\u000f144\u001b[19;51H0\u001b[19;62H4 \u001b[36m│  └─ \u001b[39m\u001b[m\u000f-zsh\r\u001b[1B24190\u001b[20;25H\u001b[36m19\u001b[39m\u001b[m\u000f276 \u001b[36m 1\u001b[39m\u001b[m\u000f400 \u001b[36m 1\u001b[39m\u001b[m\u000f06\u001b[20;51H0.2  0:00.00 \u001b[36m│     └─ \u001b[39m\u001b[m\u000ftmux -u attach\r\u001b[1B23330\u001b[21;25H\u001b[36m42\u001b[39m\u001b[m\u000f976   792   744\u001b[21;53H1  0:00.56 \u001b[36m├─ \u001b[39m\u001b[m\u000f/lib/systemd/systemd-udev\r\u001b[1B22697\u001b[22;26H\u001b["
+    ],
+    [
+      2.2e-05,
+      "36m3\u001b[39m\u001b[m\u000f372 \u001b[36m 4\u001b[39m\u001b[m\u000f620 \u001b[36m 1\u001b[39m\u001b[m\u000f1\u001b[22;48H0\u001b[7C2:09.03 \u001b[36m├─ \u001b[39m\u001b[m\u000fmosh-server new -c 256 -s -l LANG=en_US.UTF-8\r\u001b[1B2269\u001b[23;26H\u001b[36m0\u001b[39m\u001b[m\u000f768 \u001b[36m 1\u001b[39m\u001b[m\u000f640   920\u001b[23;53H2\u001b[7C14 \u001b[36m│  └─ \u001b[39m\u001b[m\u000f-zsh\r\u001b[1B21610 \u001b[0;1m\u000f\u001b[30msystemd-r \u001b[24;26H\u001b[0m\u000f\u001b[36m9\u001b[39m\u001b[m\u000f548   996   920\u001b[24;53H1\u001b[7C61 \u001b[36m├─ \u001b[39m\u001b[m\u000f/lib/systemd/systemd-resolved\r\u001b[1B20747 \u001b[0;1m\u000f\u001b[30mcallback  \u001b[25;25H\u001b[0m\u000f\u001b[36m11\u001b[39m\u001b[m\u000f124   976   852\u001b[25;53H1  0:00.35 \u001b[36m├─ \u001b[39m\u001b[m\u000f/bin/bash /usr/local/bin/tunnel_shell -c /usr/sbin\u001b[26;35H\u001b[30m\u001b[46mSorted\u001b[39;49m\u001b[m\u000fF6\u001b[30m\u001b[46mCollap\u001b[H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      1.502909,
+      "\u001b[2;7H\u001b[0;1m\u000f\u001b[30m \u001b[2;51H0.0\u001b[4;83H\u001b[36m8\u001b[11;48H\u001b[39m\u001b[m\u000f7\u001b[11;62H6\u001b[H"
+    ],
+    [
+      0.861026,
+      "\u001b[4;83H\u001b[0;1m\u000f\u001b[36m9\r\u001b[3B\u001b[39m\u001b[m\u000f    1 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m 203M  2\u001b[39m\u001b[m\u000f532 \u001b[36m 1\u001b[39m\u001b[m\u000f704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deserialize 17\u001b[K\r\u001b[1B\u001b[30m\u001b[46m31444 root       20   0 93600   912   700 S  0.0  0.1  0:02.70 ├─ gpg-agent --homedir /root/.gnupg --use-standard-so\u001b[1;1H\u001b[39;49m\u001b[m\u000f"
+    ],
+    [
+      0.84704,
+      "\u001b[4;82H\u001b[0;1m\u000f\u001b[36m20\r\u001b[3B\u001b[0m\u000f\u001b[30m\u001b[46m    1 root       200  203M  2532  1704 S  0.0  0.3  0:07.06 /lib/systemd/systemd --system --deserialize 17       \u001b[8;1H\u001b[39;49m\u001b[m\u000f31444 \u001b[0;1m\u000f\u001b[30mroot      \u001b[39m\u001b[m\u000f 20   0 \u001b[36m93\u001b[39m\u001b[m\u000f600   912   700 S  0.0  0.1  0:02.70 \u001b[36m├─ \u001b[39m\u001b[m\u000fgpg-agent --homedir /root/.gnupg --use-standard-so\u001b[11;48H0\u001b[H"
+    ],
+    [
+      1.502948,
+      "\u001b[4;83H\u001b[0;1m\u000f\u001b[36m1\u001b[H\u001b[39m\u001b[m\u000f"
+    ],
+    [
+      1.478562,
+      "\u001b[25B\u001b[J\u001b[34h\u001b[?25h\u001b[?1000l\u001b[26;1H\u001b[?1049l\r\u001b[?1l\u001b>\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                 \r \r\u001b[1m\u001b[32m>>> elapsed time 17s\u001b[0m\u001b[32m\r\n\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34myupyupp\u001b[31m@\u001b[32mtempi\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/asciinema \u001b[49m\u001b[34m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[K\u001b[102C\u001b[34m[\u001b[32m14:56:31\u001b[34m]\u001b[39m\u001b[112D\u001b[?1h\u001b=\r\r\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n\u001b[40m\u001b[39m \u001b[34myupyupp\u001b[31m@\u001b[32mtempi\u001b[39m \u001b[44m\u001b[30m\u001b[30m ~/asciinema \u001b[49m\u001b[34m\u001b[39m\r\n \u001b[1m\u001b[34m❯\u001b[39m\u001b[0m \u001b[K\u001b[102C\u001b[34m[\u001b[32m14:56:31\u001b[34m]\u001b[39m\u001b[112D\u001b[?2004h"
+    ],
+    [
+      0.535505,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "version": 1,
+  "command": null
+}
